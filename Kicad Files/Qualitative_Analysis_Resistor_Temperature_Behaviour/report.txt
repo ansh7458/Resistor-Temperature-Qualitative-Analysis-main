@@ -1,0 +1,3 @@
+Info: Updated footprint J5 (Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical): : (no changes)
+Info: Updated footprint J3 (Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical): : (no changes)
+Info: Updated footprint J4 (Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical): : (no changes)
